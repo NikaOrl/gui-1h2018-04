@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\person.o
+./debug\personwindow.o
+./debug\textlessonwindow.o
+./debug\medvedwindow.o
+./debug\moc_mainwindow.o
+./debug\moc_person.o
+./debug\moc_personwindow.o
+./debug\moc_textlessonwindow.o
+./debug\moc_medvedwindow.o
+);

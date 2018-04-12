@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\person.o
+./release\personwindow.o
+./release\textlessonwindow.o
+./release\medvedwindow.o
+./release\moc_mainwindow.o
+./release\moc_person.o
+./release\moc_personwindow.o
+./release\moc_textlessonwindow.o
+./release\moc_medvedwindow.o
+);
